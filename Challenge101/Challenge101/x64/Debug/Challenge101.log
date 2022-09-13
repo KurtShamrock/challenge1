@@ -1,0 +1,3 @@
+﻿  Challenge101.cpp
+D:\BC-training\Challenge101\Challenge101\Challenge101.cpp(18,20): warning C4101: 'pEntry': unreferenced local variable
+  Challenge101.vcxproj -> D:\BC-training\Challenge101\x64\Debug\Challenge101.exe

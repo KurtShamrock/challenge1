@@ -1,0 +1,4 @@
+﻿  Challenge103.cpp
+D:\BC-training\Challenge103\Challenge103\Challenge103.cpp(54,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\BC-training\Challenge103\Challenge103\Challenge103.cpp(118,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Challenge103.vcxproj -> D:\BC-training\Challenge103\x64\Debug\Challenge103.exe
